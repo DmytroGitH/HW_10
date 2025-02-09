@@ -1,0 +1,85 @@
+    1  git config --global user.name "Dmytro Sokolov" 
+    2  git config --global user.email dmytro.sokolov.m20@gmail.com
+    3  git clone https://github.com/DmytroGitH/HW_10.git
+    4  cd hw_10
+    5  dir
+    6  touch text_ignore.txt
+    7  git add text_ignore.txt
+    8  git status
+    9  git add .
+   10  git status
+   11  git status
+   12  git commite 
+   13  git commite -m
+   14  git commit
+   15  dir
+   16  cd ..
+   17  cd ..
+   18  cd ..
+   19  cd d:
+   20  dir
+   21  cd gitrepositiry
+   22  cd gitrepository
+   23  cd hw_10
+   24  dir
+   25  git commit -m
+   26  git commit
+   27  cd ..
+   28  cd ..
+   29  cd d:
+   30  cd repository
+   31  cd gitrepository
+   32  cd hw_10
+   33  dir
+   34  git status
+   35  git add text_ignore.txt
+   36  git status
+   37  git commit -m "Фіксація змін"
+   38  touch main_test.txt
+   39  dir
+   40  git add .
+   41  git commit -m "Фіксація змін"
+   42  git log
+   43  git branch
+   44  git checkout -b develop
+   45  git branch
+   46  touch develop_test.txt
+   47  dir
+   48  git add .
+   49  git commit -m "Фіксація змін"
+   50  git status
+   51  git add .
+   52  [200~ git commit -m "Фіксація змін"
+   53  git commit -m "Фіксація змін"
+   54  git status
+   55  nano develop_test.txt
+   56  dit status
+   57  git status
+   58  git add .
+   59  git commit -m "Фіксація змін"
+   60  checkout main
+   61  checkout branch main
+   62  git checkout main
+   63  git merge develop
+   64  git branch
+   65  git status
+   66  git log
+   67  cd addasdadadasdaSDasd 
+   68  cd ..
+   69  cd ..
+   70  cd d:
+   71  dir
+   72  cd gitrepositiry
+   73  cd gitrepository
+   74  cd hw_10
+   75  git status
+   76  git branch
+   77  git log
+   78  cd ..
+   79  cd ..
+   80  cd d:
+   81  git gitrepository
+   82  cd gitrepository
+   83  cd hw_10
+   84  dir
+   85  history > command_list.csv
